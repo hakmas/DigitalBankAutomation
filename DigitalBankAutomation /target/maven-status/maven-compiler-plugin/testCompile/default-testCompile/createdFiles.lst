@@ -1,0 +1,9 @@
+com/digitalbanking/tests/LoginTest.class
+NewTest.class
+com/digitalbanking/tests/WithdrawPageTest.class
+com/digitalbanking/tests/NewSavingAccountPageTest.class
+com/digitalbanking/tests/HomePageTest.class
+com/digitalbanking/tests/NewCheckingAccountPageTest.class
+com/digitalbanking/tests/RegisterPageTest.class
+com/digitalbanking/tests/TransferMoneyPageTest.class
+com/digitalbanking/tests/DepositPageTest.class

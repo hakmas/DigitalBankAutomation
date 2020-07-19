@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="184180" started-at="2020-07-18T09:25:43 CDT" finished-at="2020-07-18T09:28:47 CDT">
+    <groups>
+    </groups>
+    <test name="Register page test" duration-ms="14308" started-at="2020-07-18T09:25:43 CDT" finished-at="2020-07-18T09:25:57 CDT">
+      <class name="com.digitalbanking.tests.RegisterPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.RegisterPageTest@553a3d88]" name="setup" is-config="true" duration-ms="5178" started-at="2020-07-18T09:25:43 CDT" finished-at="2020-07-18T09:25:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.RegisterPageTest@553a3d88]" name="setHomePage" is-config="true" duration-ms="1" started-at="2020-07-18T09:25:48 CDT" finished-at="2020-07-18T09:25:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="registerNewUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.digitalbanking.tests.RegisterPageTest@553a3d88]" name="registerNewUserTest" duration-ms="8463" started-at="2020-07-18T09:25:48 CDT" data-provider="getUserData" finished-at="2020-07-18T09:25:57 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrs.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Joy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[01/05/1983]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123-35-3299]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[el04@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Test1234]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123 Sherman Rd.]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Dallas]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TX]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[76155.0]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[US]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[(121)123-5412]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[(121)123-5412]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[(121)123-5412]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.RegisterPageTest@553a3d88]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-07-18T09:25:57 CDT" finished-at="2020-07-18T09:25:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.RegisterPageTest -->
+    </test> <!-- Register page test -->
+    <test name="NewCheckingAccountPage page test" duration-ms="19944" started-at="2020-07-18T09:25:57 CDT" finished-at="2020-07-18T09:26:17 CDT">
+      <class name="com.digitalbanking.tests.NewCheckingAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.NewCheckingAccountPageTest@10dba097]" name="setup" is-config="true" duration-ms="3653" started-at="2020-07-18T09:25:57 CDT" finished-at="2020-07-18T09:26:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.NewCheckingAccountPageTest@10dba097]" name="setHomePage" is-config="true" duration-ms="8761" started-at="2020-07-18T09:26:00 CDT" finished-at="2020-07-18T09:26:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="openNewCheckingAccountPageTest()[pri:0, instance:com.digitalbanking.tests.NewCheckingAccountPageTest@10dba097]" name="openNewCheckingAccountPageTest" duration-ms="7439" started-at="2020-07-18T09:26:09 CDT" finished-at="2020-07-18T09:26:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewCheckingAccountPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.NewCheckingAccountPageTest@10dba097]" name="tearDown" is-config="true" duration-ms="86" started-at="2020-07-18T09:26:17 CDT" finished-at="2020-07-18T09:26:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.NewCheckingAccountPageTest -->
+    </test> <!-- NewCheckingAccountPage page test -->
+    <test name="NewSavingAccount page test" duration-ms="18967" started-at="2020-07-18T09:26:17 CDT" finished-at="2020-07-18T09:26:36 CDT">
+      <class name="com.digitalbanking.tests.NewSavingAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.NewSavingAccountPageTest@6eceb130]" name="setup" is-config="true" duration-ms="3098" started-at="2020-07-18T09:26:17 CDT" finished-at="2020-07-18T09:26:20 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.NewSavingAccountPageTest@6eceb130]" name="setHomePage" is-config="true" duration-ms="8584" started-at="2020-07-18T09:26:20 CDT" finished-at="2020-07-18T09:26:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="openNewSavingAccountTest()[pri:0, instance:com.digitalbanking.tests.NewSavingAccountPageTest@6eceb130]" name="openNewSavingAccountTest" duration-ms="7189" started-at="2020-07-18T09:26:28 CDT" finished-at="2020-07-18T09:26:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewSavingAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.NewSavingAccountPageTest@6eceb130]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-07-18T09:26:36 CDT" finished-at="2020-07-18T09:26:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.NewSavingAccountPageTest -->
+    </test> <!-- NewSavingAccount page test -->
+    <test name="WithdrawPage page test" duration-ms="20096" started-at="2020-07-18T09:26:36 CDT" finished-at="2020-07-18T09:26:56 CDT">
+      <class name="com.digitalbanking.tests.WithdrawPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.WithdrawPageTest@710726a3]" name="setup" is-config="true" duration-ms="3611" started-at="2020-07-18T09:26:36 CDT" finished-at="2020-07-18T09:26:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.WithdrawPageTest@710726a3]" name="setHomePage" is-config="true" duration-ms="8897" started-at="2020-07-18T09:26:39 CDT" finished-at="2020-07-18T09:26:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="transferMoneyTest()[pri:0, instance:com.digitalbanking.tests.WithdrawPageTest@710726a3]" name="transferMoneyTest" duration-ms="7495" started-at="2020-07-18T09:26:48 CDT" finished-at="2020-07-18T09:26:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferMoneyTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.WithdrawPageTest@710726a3]" name="tearDown" is-config="true" duration-ms="91" started-at="2020-07-18T09:26:56 CDT" finished-at="2020-07-18T09:26:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.WithdrawPageTest -->
+    </test> <!-- WithdrawPage page test -->
+    <test name="LoginTest page test" duration-ms="16316" started-at="2020-07-18T09:26:56 CDT" finished-at="2020-07-18T09:27:12 CDT">
+      <class name="com.digitalbanking.tests.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.LoginTest@548ad73b]" name="setup" is-config="true" duration-ms="3415" started-at="2020-07-18T09:26:56 CDT" finished-at="2020-07-18T09:26:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginAUserTest()[pri:0, instance:com.digitalbanking.tests.LoginTest@548ad73b]" name="loginAUserTest" duration-ms="12807" started-at="2020-07-18T09:26:59 CDT" finished-at="2020-07-18T09:27:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.LoginTest@548ad73b]" name="tearDown" is-config="true" duration-ms="91" started-at="2020-07-18T09:27:12 CDT" finished-at="2020-07-18T09:27:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.LoginTest -->
+    </test> <!-- LoginTest page test -->
+    <test name="DepositPage page test" duration-ms="19254" started-at="2020-07-18T09:27:12 CDT" finished-at="2020-07-18T09:27:31 CDT">
+      <class name="com.digitalbanking.tests.DepositPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.DepositPageTest@2f0a87b3]" name="setup" is-config="true" duration-ms="3591" started-at="2020-07-18T09:27:12 CDT" finished-at="2020-07-18T09:27:16 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.DepositPageTest@2f0a87b3]" name="setHomePage" is-config="true" duration-ms="8576" started-at="2020-07-18T09:27:16 CDT" finished-at="2020-07-18T09:27:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="doDepositTest()[pri:0, instance:com.digitalbanking.tests.DepositPageTest@2f0a87b3]" name="doDepositTest" duration-ms="6997" started-at="2020-07-18T09:27:24 CDT" finished-at="2020-07-18T09:27:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doDepositTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.DepositPageTest@2f0a87b3]" name="tearDown" is-config="true" duration-ms="87" started-at="2020-07-18T09:27:31 CDT" finished-at="2020-07-18T09:27:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.DepositPageTest -->
+    </test> <!-- DepositPage page test -->
+    <test name="TransferMoney page test" duration-ms="19323" started-at="2020-07-18T09:27:31 CDT" finished-at="2020-07-18T09:27:51 CDT">
+      <class name="com.digitalbanking.tests.TransferMoneyPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.TransferMoneyPageTest@4fcd19b3]" name="setup" is-config="true" duration-ms="3170" started-at="2020-07-18T09:27:31 CDT" finished-at="2020-07-18T09:27:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.TransferMoneyPageTest@4fcd19b3]" name="setHomePage" is-config="true" duration-ms="8601" started-at="2020-07-18T09:27:35 CDT" finished-at="2020-07-18T09:27:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="transferMoneyTest()[pri:0, instance:com.digitalbanking.tests.TransferMoneyPageTest@4fcd19b3]" name="transferMoneyTest" duration-ms="7453" started-at="2020-07-18T09:27:43 CDT" finished-at="2020-07-18T09:27:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- transferMoneyTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.TransferMoneyPageTest@4fcd19b3]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-07-18T09:27:51 CDT" finished-at="2020-07-18T09:27:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.TransferMoneyPageTest -->
+    </test> <!-- TransferMoney page test -->
+    <test name="HomePage page test" duration-ms="55928" started-at="2020-07-18T09:27:51 CDT" finished-at="2020-07-18T09:28:47 CDT">
+      <class name="com.digitalbanking.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="setup" is-config="true" duration-ms="3150" started-at="2020-07-18T09:27:51 CDT" finished-at="2020-07-18T09:27:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setHomePage()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="setHomePage" is-config="true" duration-ms="4455" started-at="2020-07-18T09:27:54 CDT" finished-at="2020-07-18T09:27:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setHomePage -->
+        <test-method status="PASS" signature="goToDepositAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToDepositAccountTest" duration-ms="5570" started-at="2020-07-18T09:27:58 CDT" finished-at="2020-07-18T09:28:04 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDepositAccountTest -->
+        <test-method status="PASS" signature="goToNewApplicationAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToNewApplicationAccountTest" duration-ms="5170" started-at="2020-07-18T09:28:04 CDT" finished-at="2020-07-18T09:28:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToNewApplicationAccountTest -->
+        <test-method status="PASS" signature="goToNewCheckingAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToNewCheckingAccountTest" duration-ms="4587" started-at="2020-07-18T09:28:09 CDT" finished-at="2020-07-18T09:28:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToNewCheckingAccountTest -->
+        <test-method status="PASS" signature="goToNewSavingAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToNewSavingAccountTest" duration-ms="4889" started-at="2020-07-18T09:28:14 CDT" finished-at="2020-07-18T09:28:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToNewSavingAccountTest -->
+        <test-method status="PASS" signature="goToTransferBetweenAccountsTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToTransferBetweenAccountsTest" duration-ms="5548" started-at="2020-07-18T09:28:19 CDT" finished-at="2020-07-18T09:28:24 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToTransferBetweenAccountsTest -->
+        <test-method status="PASS" signature="goToViewCheckingAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToViewCheckingAccountTest" duration-ms="6311" started-at="2020-07-18T09:28:24 CDT" finished-at="2020-07-18T09:28:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToViewCheckingAccountTest -->
+        <test-method status="PASS" signature="goToViewSavingAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToViewSavingAccountTest" duration-ms="5911" started-at="2020-07-18T09:28:30 CDT" finished-at="2020-07-18T09:28:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToViewSavingAccountTest -->
+        <test-method status="PASS" signature="goToVisaTransferAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToVisaTransferAccountTest" duration-ms="4758" started-at="2020-07-18T09:28:36 CDT" finished-at="2020-07-18T09:28:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToVisaTransferAccountTest -->
+        <test-method status="PASS" signature="goToWitdrawAccountTest()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="goToWitdrawAccountTest" duration-ms="5435" started-at="2020-07-18T09:28:41 CDT" finished-at="2020-07-18T09:28:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToWitdrawAccountTest -->
+        <test-method status="PASS" signature="verifyHomePageTest()[pri:1, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="verifyHomePageTest" duration-ms="36" started-at="2020-07-18T09:28:47 CDT" finished-at="2020-07-18T09:28:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digitalbanking.tests.HomePageTest@6fb0d3ed]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-07-18T09:28:47 CDT" finished-at="2020-07-18T09:28:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalbanking.tests.HomePageTest -->
+    </test> <!-- HomePage page test -->
+  </suite> <!-- Suite -->
+</testng-results>
